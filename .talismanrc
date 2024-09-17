@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: 4e518f94739a346afdc5f1293b5e11ab0ef8e7f0a8340c31314f54438682f595
+- filename: src/component/ExperienceDetails.jsx
+  checksum: 24780f5faa07a0a09f5f3947611f19b818873c164518e8671f0513a0a9b266ad
+- filename: src/component/Experience.jsx
+  checksum: e5da13f16292eb5d8dda51f95cecb262769cc33845e82dd318621eb20b5c4ca6
+version: ""
